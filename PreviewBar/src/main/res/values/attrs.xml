@@ -21,4 +21,5 @@
         <attr name="previewThumbTint" format="color" />
         <attr name="previewAutoHide" format="boolean" />
     </declare-styleable>
+
 </resources>
